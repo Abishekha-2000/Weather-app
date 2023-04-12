@@ -1,0 +1,26 @@
+.box{
+    align-items: center;
+}
+
+#time{
+    display: flex;
+    justify-content: end;
+}
+
+#time1{
+    display: flex;
+    justify-content: end;
+}
+#temp{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+}
+
+#disply-flx1{
+    display: flex;
+    justify-content: end;
+}
+#idvvvvv{
+    text-align: end;
+}

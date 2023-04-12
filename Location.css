@@ -1,0 +1,12 @@
+#head{
+    /* width: 80vw; */
+    height: 15rem;
+    text-align: center;
+    background: #000;
+    color: white;
+    opacity: 0.6;
+}
+
+#forheight{
+    height: 900rem;
+}

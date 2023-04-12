@@ -1,0 +1,27 @@
+#forcol{
+    border-right:2px white solid ;
+    text-align: center;
+    width:20vw;
+    
+}
+
+#cont{
+    background: #000;
+    color: white;
+    opacity: 0.6;
+}
+
+#sun{
+    color: orange;
+   
+}
+
+#line{
+ 
+ overflow-x: scroll;
+ display: flex;
+}
+
+.forborder{
+    overflow-y: scroll;
+}
